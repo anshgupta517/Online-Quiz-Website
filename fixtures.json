@@ -1,0 +1,123 @@
+[
+    {
+        "model": "Quiz.quesmodel",
+        "fields": {
+            "question": "What is the capital of France?",
+            "op1": "Paris",
+            "op2": "London",
+            "op3": "Berlin",
+            "op4": "Rome",
+            "ans": "Paris"
+        }
+    },
+    {
+        "model": "Quiz.quesmodel",
+        "fields": {
+            "question": "What is the largest planet in our solar system?",
+            "op1": "Earth",
+            "op2": "Saturn",
+            "op3": "Jupiter",
+            "op4": "Uranus",
+            "ans": "Jupiter"
+        }
+    },
+    {
+        "model": "Quiz.quesmodel",
+        "fields": {
+            "question": "Who painted the Mona Lisa?",
+            "op1": "Leonardo da Vinci",
+            "op2": "Michelangelo",
+            "op3": "Raphael",
+            "op4": "Caravaggio",
+            "ans": "Leonardo da Vinci"
+        }
+    },
+    {
+        "model": "Quiz.quesmodel",
+        "fields": {
+            "question": "What is the chemical symbol for gold?",
+            "op1": "Ag",
+            "op2": "Au",
+            "op3": "Hg",
+            "op4": "Pb",
+            "ans": "Au"
+        }
+    },
+    {
+        "model": "Quiz.quesmodel",
+        "fields": {
+            "question": "Which planet is known for being the hottest?",
+            "op1": "Mercury",
+            "op2": "Venus",
+            "op3": "Mars",
+            "op4": "Jupiter",
+            "ans": "Venus"
+        }
+    },
+    {
+        "model": "Quiz.quesmodel",
+        "fields": {
+            "question": "Who wrote the famous novel 'To Kill a Mockingbird'?",
+            "op1": "F. Scott Fitzgerald",
+            "op2": "Harper Lee",
+            "op3": "Jane Austen",
+            "op4": "J.K. Rowling",
+            "ans": "Harper Lee"
+        }
+    },
+    {
+        "model": "Quiz.quesmodel",
+        "fields": {
+            "question": "What is the largest living species of lizard?",
+            "op1": "Komodo dragon",
+            "op2": "Saltwater crocodile",
+            "op3": "Black mamba",
+            "op4": "African elephant",
+            "ans": "Komodo dragon"
+        }
+    },
+    {
+        "model": "Quiz.quesmodel",
+        "fields": {
+            "question": "Who was the first President of the United States?",
+            "op1": "George Washington",
+            "op2": "Thomas Jefferson",
+            "op3": "Abraham Lincoln",
+            "op4": "Franklin D. Roosevelt",
+            "ans": "George Washington"
+        }
+    },
+    {
+        "model": "Quiz.quesmodel",
+        "fields": {
+            "question": "What is the deepest part of the ocean?",
+            "op1": "Mariana Trench",
+            "op2": "Grand Canyon",
+            "op3": "Mount Everest",
+            "op4": "Great Barrier Reef",
+            "ans": "Mariana Trench"
+        }
+    },
+    {
+        "model": "Quiz.quesmodel",
+        "fields": {
+            "question": "Who painted the famous artwork 'The Starry Night'?",
+            "op1": "Vincent van Gogh",
+            "op2": "Pablo Picasso",
+            "op3": "Claude Monet",
+            "op4": "Johannes Vermeer",
+            "ans": "Vincent van Gogh"
+        }
+    },
+    {
+        "model": "Quiz.quesmodel",
+        "fields": {
+            "question": "What is the largest mammal on Earth?",
+            "op1": "Blue whale",
+            "op2": "Fin whale",
+            "op3": "Humpback whale",
+            "op4": "Sperm whale",
+            "ans": "Blue whale"
+        }
+    }
+]
