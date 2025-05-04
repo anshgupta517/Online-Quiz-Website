@@ -3,7 +3,11 @@
 
 This project is an online quiz website built using Python.
 
-## Features
+##  Key Features
+
+*   **Online Quizzes:** Allows users to take quizzes online.
+*   **Django Framework:** Built using the Django framework for robust web development.
+*   **Database Integration:** Uses a database (likely SQLite by default) to store quiz data and user information.
 * Implemented core features including secure user authentication (registration, login, logout), dynamic loading of multiple-choice questions from a database, and immediate post-submission feedback with detailed scoring (total score, correct/wrong count, percentage).
 * Created a separate administrative view for authorized staff to easily add and manage quiz questions.
 
@@ -42,8 +46,5 @@ This project is an online quiz website built using Python.
 
     This will start the server, and you can access the website in your browser, usually at `http://127.0.0.1:8000/`.
 
-## ✨ Key Features
 
-*   **Online Quizzes:** Allows users to take quizzes online.
-*   **Django Framework:** Built using the Django framework for robust web development.
-*   **Database Integration:** Uses a database (likely SQLite by default) to store quiz data and user information.
+
