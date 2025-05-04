@@ -3,6 +3,10 @@
 
 This project is an online quiz website built using Python.
 
+## Features
+* Implemented core features including secure user authentication (registration, login, logout), dynamic loading of multiple-choice questions from a database, and immediate post-submission feedback with detailed scoring (total score, correct/wrong count, percentage).
+* Created a separate administrative view for authorized staff to easily add and manage quiz questions.
+
 ### Installation
 
 1.  **Clone the repository:**
